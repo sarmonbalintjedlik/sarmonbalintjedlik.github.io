@@ -3,17 +3,20 @@
     margin-right: 45%;
     font-weight: bolder;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-decoration: underline;
 }
 
 .title {
     font-weight: bolder;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-decoration: underline;
 }
 
 body {
     background-color:rgb(255, 241, 162);
 }
 
-
+.gomb_kinezet {
+    letter-spacing: 5px;
+    background-color: lightblue;
+    border-radius: 10px;
+    cursor: pointer;
+}
