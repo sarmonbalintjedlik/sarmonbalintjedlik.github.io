@@ -11,12 +11,16 @@
 }
 
 body {
-    background-color:rgb(255, 241, 162);
+    background-image: url(Zz0zZTliMjQ4MzhlNGExMWViYmJiMjFiZTI2ZWNmN2MzZA==.jfif);
+    background-size: 150%;
+    background-repeat: no-repeat;
 }
 
 .gomb_kinezet {
     letter-spacing: 5px;
-    background-color: lightblue;
+    background-color: aquamarine;
     border-radius: 10px;
     cursor: pointer;
+    font-family: Verdana;
+    border-color: lightskyblue;
 }
