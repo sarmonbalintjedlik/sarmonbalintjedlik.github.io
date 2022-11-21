@@ -11,16 +11,53 @@
 }
 
 body {
-    background-image: url(Background_color.jfif);
-    background-size: 150%;
+    background-image: url(https://locations.kfc.com/permanent-b0b701/assets/images/kfc-hero.ed57ffa2.jpg);
+    background-size: 100%;
     background-repeat: no-repeat;
 }
 
-.gomb_kinezet {
-    letter-spacing: 5px;
-    background-color: aquamarine;
-    border-radius: 10px;
+* {
+    margin-left: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.elso-sor-kepek {
+    margin-top: 10%;
+    height: 200px;
+    width: 260px;
+    margin: 4.7%;
+    margin-top: 10%;
+    border-radius: 40px;
+    border: 10px solid grey;
     cursor: pointer;
-    font-family: Verdana;
-    border-color: lightskyblue;
+}
+
+.masodik-sor-kepek1 {
+    margin-top: 10%;
+    height: 200px;
+    width: 280px;
+    margin-left: 26.9%;
+    margin-top: 10%;
+    border-radius: 40px;
+    border: 10px solid grey;
+    cursor: pointer;
+}
+
+.masodik-sor-kepek2 {
+    margin-top: 10%;
+    height: 200px;
+    width: 280px;
+    margin-left: 8.6%;
+    border-radius: 40px;
+    border: 10px solid grey;
+    cursor: pointer;
+}
+
+img:hover {
+    border: 10px solid darkturquoise;
+}
+
+#gif {
+    border: 0 solid #000;
 }

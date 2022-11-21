@@ -1,0 +1,20 @@
+body {
+    background-image: url(https://locations.kfc.com/permanent-b0b701/assets/images/kfc-hero.ed57ffa2.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+* {
+    margin-left: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.gomb_kinezet {
+    letter-spacing: 5px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: Verdana;
+    border-color: lightskyblue;
+}
